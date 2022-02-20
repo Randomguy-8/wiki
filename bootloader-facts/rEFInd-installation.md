@@ -56,8 +56,8 @@ sudo pacman -S refind
 ```
 > If you're fedora, Mageia or other linux user then follow these steps-
 > 1) Go to this [link](https://sourceforge.net/projects/refind/files) and download latest `rpm` or `deb` file according to your system.
-> 2) If you install `rpm` file then cd to file and type ```sudo rpm -i refind*.rpm``` 
-> 3) If you install `dbm` file then cd to file and type ```sudo dpkg -i refind*.deb```
+> 2) If you Donwload `rpm` file then cd to file and type ```sudo rpm -i refind*.rpm``` 
+> 3) If you Donwload `dbm` file then cd to file and type ```sudo dpkg -i refind*.deb```
 
 rEFInd instllation start automatically if not then type-
 ```
