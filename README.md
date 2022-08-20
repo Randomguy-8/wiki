@@ -1,14 +1,14 @@
 ---
-title: SupremeGamers Wiki
+title: AOPC Wiki
 label: Welcome
-description: A wiki by the SupremeGamers community enriched with various guides and docs
+description: A wiki by the AOPC community enriched with various guides and docs
 icon: home
 order: 0
 ---
 
-# Welcome to the SupremeGamers Wiki!
+# Welcome to the AOPC Wiki!
 
-##### Exclusive to Android-x86 related topics
+##### Exclusive to Android on PC related topics
 
 ##### Here you can find very detailed guides for it, such as:
 
